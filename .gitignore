@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # sbt specific
 dist/*
 target/
@@ -8,3 +9,6 @@ project/plugins/project/
 
 # Scala-IDE specific
 .scala_dependencies
+=======
+*/target/*
+>>>>>>> 58e201e... a
